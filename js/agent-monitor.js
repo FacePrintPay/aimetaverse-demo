@@ -23,3 +23,5 @@ function updateAgentStatus() {
 // Update every 3s for live feel
 setInterval(updateAgentStatus, 3000);
 updateAgentStatus(); // Initial render
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=agent-monitor.js
